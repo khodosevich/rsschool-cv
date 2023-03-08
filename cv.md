@@ -17,6 +17,14 @@ Linkedin: [Matvey Khodosevich](https://www.linkedin.com/in/matvey-khodosevich-30
 
 Hey! I am student who after completing this course, wants to gain knowledge, make new friends and maybe get a job as a frontend developer in the future! Good luck to all students on this course! And remember: **never give up**!
 
+## Project
+
+[Mobile operator - course work at the University](https://github.com/khodosevich/Course-Work)
+
+[task on Front-end Trainee in one company](https://khodosevich.github.io/EgorovAgency/)
+
+[html layouts](https://khodosevich.github.io/Product/)
+
 
 ## Skills
 
