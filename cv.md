@@ -12,6 +12,12 @@ GitHub: [khodosevich](https://github.com/khodosevich)
 
 Linkedin: [Matvey Khodosevich](https://www.linkedin.com/in/matvey-khodosevich-30b2a7239/)
 
+
+## About me:
+
+Hey! I am student who after completing this course, wants to gain knowledge, make new friends and maybe get a job as a frontend developer in the future! Good luck to all students on this course! And remember: **never give up**!
+
+
 ## Skills
 
 * HTML
