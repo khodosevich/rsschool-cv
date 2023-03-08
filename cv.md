@@ -1,8 +1,8 @@
-#Khodosevich Matvey
+# Khodosevich Matvey
 
 ### **frontend developer**
 
-##Contacts:
+## Contacts:
 
 Telegram: @khodosevichm
 
@@ -12,24 +12,24 @@ GitHub: [khodosevich](https://github.com/khodosevich)
 
 Linkedin: [Matvey Khodosevich](https://www.linkedin.com/in/matvey-khodosevich-30b2a7239/)
 
-##Skills
+## Skills
 
-*HTML
+* HTML
 
-*CSS
+* CSS
 
-*C/C++
+* C/C++
 
-*OOP
+* OOP
 
-*git
+* git
 
-*JS(basic)
+* JS(basic)
 
-*Figma
+* Figma
 
 
-##Some code
+## Some code
 
 ```
 
@@ -39,8 +39,8 @@ function factorial(n){
 
 ```
 
-##Languages:
+## Languages:
 
-*Russian(C2)
+* Russian(C2)
 
-*English(A2)
+* English(A2)
